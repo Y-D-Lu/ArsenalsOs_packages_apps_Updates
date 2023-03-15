@@ -51,7 +51,7 @@
             android:singleLine="true"
             android:textColor="?android:textColorSecondary"
             android:textSize="18sp"
-            tools:text="PixelExperience_device-10.0-20200115-2020-OFFICIAL.zip" />
+            tools:text="ArsenalsOs_device-00.0-00000000-0000.zip" />
 
         <TextView
             android:id="@+id/build_date"

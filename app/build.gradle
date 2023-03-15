@@ -7,11 +7,11 @@ def keystoreProperties = new Properties()
 keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 
 android {
-    namespace 'org.pixelexperience.ota'
+    namespace 'cn.arsenals.os.ota'
     compileSdk 33
 
     defaultConfig {
-        applicationId "org.pixelexperience.ota"
+        applicationId "cn.arsenals.os.ota"
         minSdk 33
         targetSdk 33
         versionCode 1
